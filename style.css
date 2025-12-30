@@ -5,7 +5,9 @@
 body {
   margin: 0;
   padding-left: 6%;
-  background-color: rgb(175, 224, 191);
+  background-color: rgb(0, 0, 0);
+  font-family: "Outfit", sans-serif;
+  color: white;
 }
 
 .content {
